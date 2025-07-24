@@ -1,4 +1,4 @@
 # Easy-CRM
-Easy CRM is a Customer Management application built for solo freelancers to manage their clients at ease. 
+Easy CRM (Python/Django/JavaScript) is a client management app for solo entrepreneurs, offering features like contact tracking, deal management, notes, and easy client organization in one place.
 
 
